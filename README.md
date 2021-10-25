@@ -6,3 +6,7 @@
 #### Como utilizar?
 
 `https://www.youtube.com/watch?v=_IAizSgo0iw&t=499s`
+
+#### Layout original (créditos)
+
+`https://github.com/sourabh2k15/whatsapp-web`
